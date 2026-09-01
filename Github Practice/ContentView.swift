@@ -17,6 +17,7 @@ struct ContentView: View {
             Text("Feature1 Branch")
             Text("Feature2 Branch")
             Text("わっはっは")
+            Text("あいうえお")
         }
         .padding()
     }
